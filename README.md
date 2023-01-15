@@ -15,7 +15,9 @@ In this project, I was primarily concerned with how the independent variables af
  3. female - female on the average bike for longer hours than male
  
  **In terms of frequency however, the following factors affect the duration somewhat because of the high number of occurences.**
+ 
  4. afternoon - during the day bike share are more akin to be used for long hours. This can partially be alluded to more people using the bikes during the day
+ 
  5. age - aside being more in the dataset, they also have highest variance in usage. The younger ones have very varied duration but surprisingly, the mean duration for all ages remain the same.
 
 
